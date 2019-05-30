@@ -259,3 +259,7 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/TensorFlow/data/mnist/t10k-images-idx3-ubyte.gz
+/TensorFlow/data/mnist/train-images-idx3-ubyte.gz
+/TensorFlow/data/mnist/train-labels-idx1-ubyte.gz
+/TensorFlow/data/mnist/t10k-labels-idx1-ubyte.gz
